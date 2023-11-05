@@ -1,0 +1,60 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	}
+
+    #navbar #LG img{
+        border-radius: 50%;
+        height: 30px;
+        width: 30px;
+    }
+
+    #navbar{
+        border: 1px solid black;
+        margin: 2px;
+        padding: 2px;
+        text-align: left;
+        background-color: black;
+        height: 5vh;
+        width: 100vw;
+        }
+        #links{
+            display: inline;
+        }
+        #navbar #links a{
+            font-family: 'Courier New', Courier, monospace;
+            font-weight: 600;
+            text-decoration: none;
+            padding: 1px;
+            margin: 1px;
+            border: 1px solid black;
+            float: right;
+            background-color: white;
+            color: green;
+        }
+    
+        p {
+            font-family: 'Courier New', Courier, monospace;
+            color: white;
+        }
+
+    #main{
+        height:95vh;
+        width: 100vw;
+        border: 0.1px;
+        background-color: white;
+        margin: 0px;
+        padding: 0px;
+        text-align: center;
+    }
+
+    #linkers #dink a{
+        font-family: 'Courier New', Courier, monospace;
+        border: 1px solid black;
+        margin: 5px;
+        padding: 3px;
+        float: right;
+        background-color: white;
+        color: green;
+        text-decoration: none;
+    }
